@@ -20,7 +20,7 @@ This project serves as a learning tool for developers, security professionals, a
 ### Installation
 Clone the repository:
 ```
-git clone https://github.com/cloudsecnetwork/vuln-auth-app.git
+git clone https://github.com/seyramgabriel/vulnerable-auth-app.git
 ```
 Navigate to the client directory and install dependencies:
 ```
